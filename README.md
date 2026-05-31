@@ -7,7 +7,7 @@ This repository presents an experimental deep dive into the trade-offs and compl
 It implements and compares three post-training pipelines:
 
 1. **Full Fine-Tuning (FFT)** with a small encoder model and language modeling (LM) head.
-2. **Parameter-Efficient Fine-Tuning (Q-LORA/SFT)** for skill acquisition.
+2. **Parameter-Efficient Fine-Tuning (Q-LoRA/SFT)** for skill acquisition.
 3. **Direct Preference Optimization (DPO)** for behavioral alignment and safety.
 
 ## Goal
